@@ -1,0 +1,225 @@
+@media(max-width: 575.98px){
+    .navbar{
+        padding: 10px 10px;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+        }
+    .manu_bg button{
+        border: 2px solid #fff;
+    }
+    .navbar-toggler:focus {
+      box-shadow:0 0 0 transparent;
+      }
+      
+    .manu_bg i{
+        color: #fff;
+    }
+    .manu_bg ul{
+       text-align: center;
+    }
+    .manu_bg ul li{
+       padding: 10px 0;
+    }
+    .contact{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .main{
+        margin: 10px 0;
+    }
+    .f_t2{
+        margin: 16px 0;
+    }
+    .f_email{
+        padding: 17px 18px;
+    }
+    .f_e_left{
+        padding:0 10px;
+    }
+
+.f_left {
+    display: none;
+}
+
+}
+@media(min-width: 576px) and (max-width: 767.98px){
+    .navbar{
+        padding: 10px 10px;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+        }
+.manu_bg button{
+    border: 2px solid #fff;
+}
+.navbar-toggler:focus {
+  box-shadow:0 0 0 transparent;
+  }
+  
+.manu_bg i{
+    color: #fff;
+}
+.manu_bg ul{
+   text-align: center;
+}
+.manu_bg ul li{
+   padding: 10px 0;
+}
+.contact{
+    text-align: center;
+    margin-top: 20px;
+}
+.main{
+    margin: 10px 0;
+}
+.f_t2{
+    margin: 16px 0;
+}
+.f_left {
+    display: none;
+}
+}
+@media(min-width: 768px) and (max-width: 991.98px){
+    .navbar{
+        padding: 10px 10px;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+        }
+    .manu_bg button{
+        border: 2px solid #fff;
+    }
+    .navbar-toggler:focus {
+      box-shadow:0 0 0 transparent;
+      }
+      
+    .manu_bg i{
+        color: #fff;
+    }
+    .manu_bg ul{
+       text-align: center;
+    }
+    .manu_bg ul li{
+       padding: 10px 0;
+    }
+    .contact{
+        text-align: center;
+        margin-top: 20px;
+    }
+    #price{
+        padding: 60px 0;
+    }
+
+.price_head h2{
+font-size: 32px;
+
+}
+.price_head p{
+font-size: 12px;
+padding-bottom: 44px;
+}
+.main{
+    padding: 0 18px;
+}
+.main:hover{
+    background-color: #1C1E53;
+    color: #fff;
+}
+.main:hover .p_contact a{
+    font-size: 16px;
+    padding: 16px 20px;
+
+}
+.main:hover .dollar h6{
+    padding-left: 8px;
+    font-size: 12px;
+    padding-top: 58px;
+}
+.dollar h3{
+    font-size: 24px;
+    padding-top: 34px; 
+}
+.dollar h6{
+padding-left: 8px;
+font-size: 12px;
+padding-top: 48px;
+}
+
+.price_text h3{
+    font-size: 20px;
+    padding-top: 16px;  
+}
+.price_text p{
+    font-size: 12px;
+    padding-bottom: 28px;
+}
+.price_list h4{
+font-size: 12px;
+padding-bottom: 5px;
+}
+#questions{
+    padding: 60px 0; 
+    }
+.p_contact{
+padding: 62px 16px;
+}
+.p_contact a{
+font-size: 16px;
+padding: 16px 20px;
+}
+    .f_t2{
+        margin: 16px 0;
+    }
+    .f_left {
+        display: none;
+    }
+}
+@media(min-width: 992px) and (max-width: 1199.98px){
+    .manu_bg ul li a{
+        padding: 0 10px !important;
+        font-size: 12px;
+        font-weight: 400;
+
+    }
+    .manu_bg .contact a{
+    padding: 16px 28px;
+    }
+    .main{
+    padding: 0 15px;
+    }
+    .form_a a{
+        padding: 16px 50px;
+        }
+    .form_a_1{
+        margin-top: 25px;
+        padding: 20px 20px;
+    }
+    .f_left ul a{
+        padding:0 10px;
+    font-size: 12px;
+    font-weight: 400;
+    }
+    .f_email{
+        padding: 17px 18px;
+    }
+    .f_e_left{
+        padding-right: 18px;
+    }
+}
+@media(min-width: 1200px) and (max-width: 1399.98px){
+    .manu_bg ul li a{
+        padding: 0 10px !important;
+
+    }
+    .manu_bg .contact a{
+    padding: 16px 28px;
+    }
+    .main{
+        padding: 0 35px;
+        }
+}
+@media(min-width: 1400px){
+
+}
+

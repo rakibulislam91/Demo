@@ -1,0 +1,371 @@
+a{
+    text-decoration: none;
+}
+.navbar{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.manu_bg{
+    background-color: #1C1E53;
+}
+.manu_bg ul li a{
+    padding: 0 16px !important;
+    color: #BBBBCB !important;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+}
+.manu_bg ul li a:hover{
+    color: #FCD980 !important;
+}
+.manu_bg .contact a{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+color: #fff;
+padding: 16px 48px;
+background-color: #1C1E53;
+border: 2px solid #F4F6FC;
+border-radius: 41px;
+margin: 16px 16px;
+}
+.manu_bg .contact a:hover{
+    background-color: #FCD980;
+    color: black;
+    border: 2px solid #FCD980;
+}
+
+/* banner srart */
+#banner{
+    background-color: #1C1E53;
+    padding: 126px 0;
+}
+.banner_text h1{
+font-family: Poppins;
+font-size: 54px;
+font-weight: 600;
+text-align: left;
+color: #fff;
+margin-bottom: 24px;
+}
+.banner_text p{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+color: #fff;
+margin-bottom: 48px;
+}
+.banner_img img{
+    width: 100%;
+}
+.view{
+    display: flex;
+}
+.view_1 a{
+font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+text-align: left;
+color: #fff;
+padding: 16px 56px;
+border: 2px solid #fff;
+border-radius: 41px;
+margin-right: 48px;
+}
+.view_1 a:hover{
+background-color: #FCD980;
+color: black;
+border: 2px solid #FCD980;
+}
+
+/* banner end */
+
+/* <!-- benefits part start --> */
+#benefits{
+    padding: 128px 0;
+}
+.ben_end_img img{
+    padding-bottom: 96px;
+    width: 100%;
+}
+.benefits_head{
+    text-align: center;
+}
+.benefits_head h2{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    margin-bottom: 48px;
+}
+.ben_bottom{
+    background-color: #F4F6FC;
+    height: 320px;
+    padding-left: 48px;
+    padding-right: 16px;
+}
+.ben_img img{
+    padding-top: 50px;
+    padding-bottom: 26px;
+}
+.ben_text h3{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 22px;
+     
+}
+.ben_text p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: justify;
+}
+
+/* <!-- benefits part end --> */
+
+/* <!-- use part start --> */
+#use{
+    padding-bottom: 128px;
+}
+.use_text h6{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+     padding-top: 30px;  
+}
+.use_text h3{
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    padding: 16px 0;
+}
+.use_text p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    
+}
+.use_img img{
+    width: 100%;
+}
+
+/* <!-- use part end --> */
+
+/* <!-- revision part start --> */
+#revision{
+    padding: 128px 0;
+    background-color: #F4F6FC;
+}
+.revision_img img{
+    width: 100%;
+}
+.revision_text h6{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+     padding-top: 30px;  
+}
+.revision_text h3{
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    padding: 16px 0;
+}
+.revision_text p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    
+}
+
+/* <!-- revision part end --> */
+
+/* <!-- support part start --> */
+#support{
+    padding: 128px 0;
+}
+.support_text h6{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+     padding-top: 30px;  
+}
+.support_text h3{
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    padding: 16px 0;
+}
+.support_text p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    
+}
+.support_img img{
+    width: 100%;
+}
+
+/* <!-- support part end --> */
+
+/* <!-- delivery part start --> */
+#delivery{
+    padding: 128px 0;
+    background-color: #f1ede1;
+}
+.delivery_img img{
+    width: 100%;
+}
+.delivery_text h6{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+     padding-top: 30px;  
+}
+.delivery_text h3{
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+    padding: 16px 0;
+}
+.delivery_text p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    
+}
+
+/* <!-- delivery part end --> */
+
+/* <!-- questions part start --> */
+ #questions{
+padding: 128px 0; 
+}
+.que_text h2{
+font-family: Poppins;
+font-size: 36px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 16px;
+}
+.que_text a{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+}
+
+/* <!-- questions part end --> */
+
+
+
+/* <!-- footer part start --> */
+#footer{
+background-color: #1C1E53;
+}
+.f_logo{
+    padding-top: 100px;
+}
+.f_t p{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+margin-top: 22px;
+}
+.f_t2 h2{
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding-top: 100px;
+}
+.f_t2 p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F4F6FC;
+}
+.f_cotact a{
+padding-right: 26px;
+}
+
+.f_email{
+    display: flex;
+    background-color: #FCD980;
+    padding: 17px 37px;
+}
+.f_e_left{
+    padding-right: 29px;
+}
+.f_e_left h4{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.f_e_left a{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #000;
+}
+
+.f_end{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    padding-bottom: 32px;
+}
+.f_left ul{
+    list-style: none;
+    display: flex;
+}
+.f_left ul a{
+    padding-right: 32px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color: #000;
+}
+.f_left ul a:hover{
+    color: #e8a90b;
+    }
+/* <!-- footer part end --> */
